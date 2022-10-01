@@ -1,0 +1,10 @@
+version: '3'
+services:
+  perevalov-com:
+    restart: unless-stopped
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - 40197:80
+    container_name: perevalov-com-container
