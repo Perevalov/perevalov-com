@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/perevalov-com/static/css/main.4ea24607.css",
-    "main.js": "/perevalov-com/static/js/main.77517b17.js",
-    "static/js/787.4d2abc47.chunk.js": "/perevalov-com/static/js/787.4d2abc47.chunk.js",
-    "index.html": "/perevalov-com/index.html",
-    "static/media/getFetch.cjs": "/perevalov-com/static/media/getFetch.40f37ddea2378391108f.cjs",
-    "main.4ea24607.css.map": "/perevalov-com/static/css/main.4ea24607.css.map",
-    "main.77517b17.js.map": "/perevalov-com/static/js/main.77517b17.js.map",
-    "787.4d2abc47.chunk.js.map": "/perevalov-com/static/js/787.4d2abc47.chunk.js.map"
+    "main.css": "/static/css/main.4ea24607.css",
+    "main.js": "/static/js/main.7c48a167.js",
+    "static/js/787.4d2abc47.chunk.js": "/static/js/787.4d2abc47.chunk.js",
+    "index.html": "/index.html",
+    "static/media/getFetch.cjs": "/static/media/getFetch.40f37ddea2378391108f.cjs",
+    "main.4ea24607.css.map": "/static/css/main.4ea24607.css.map",
+    "main.7c48a167.js.map": "/static/js/main.7c48a167.js.map",
+    "787.4d2abc47.chunk.js.map": "/static/js/787.4d2abc47.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4ea24607.css",
-    "static/js/main.77517b17.js"
+    "static/js/main.7c48a167.js"
   ]
 }
