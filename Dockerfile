@@ -8,7 +8,7 @@ RUN npm ci --silent
 RUN npm install react-scripts --silent
 COPY . ./
 ENV NODE_OPTIONS=--openssl-legacy-provider
-ENV PUBLIC_URL=http://perevalov.com
+ENV PUBLIC_URL=https://perevalov.com
 RUN npm run build
 
 # production environment

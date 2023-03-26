@@ -7,10 +7,7 @@ const IndexLatest = () => {
     const [latestNews, setLatestNews] = useState([]);
 
     const getLatestNews = async () => {
-        fetch('http://178.154.220.63:40140/get_news').then(response => response.json()).then(data => {
-            setLatestNews(data);
-        }
-        );
+        console.log("TBD")
     }
     
     useEffect(() => {
