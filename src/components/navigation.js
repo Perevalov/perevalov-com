@@ -18,7 +18,7 @@ const Navigation = () => {
                 <div className="collapse navbar-collapse" id="navcol-1">
                     <ul className="navbar-nav ms-auto">
                         <li className="nav-item"><a className="nav-link" href="/">{ t('nav_item_bio') }</a></li>
-                        <li className="nav-item"><a className="nav-link" href="http://perevalov.com/ap-cv">{ t('nav_item_cv') }</a></li>
+                        <li className="nav-item"><a className="nav-link" href="https://perevalov.com/static/pdf/cv.pdf">{ t('nav_item_cv') }</a></li>
                         <li className="nav-item"><a className="nav-link" href="https://scholar.google.com/citations?user=VRJwbL4AAAAJ&hl=en">{ t('nav_item_research') }</a></li>
                         <li className="nav-item dropdown">
                             <a className="dropdown-toggle nav-link" aria-expanded="false" data-bs-toggle="dropdown">{ t('nav_item_blog') }</a>

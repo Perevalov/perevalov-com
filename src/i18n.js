@@ -11,7 +11,7 @@ i18n.use(LanguageDetector)
     .use(initReactI18next)
     .use(Backend) // serving translations from /public/locales
     .init({
-        debug: true,
+        debug: false,
         fallbackLng: fallbackLng,
         whitelist: availableLanguages
     })
