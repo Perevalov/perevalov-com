@@ -5,7 +5,7 @@ import i18next from 'i18next';
 
 const Navigation = () => {
     const { t } = useTranslation();
-    const availableLanguages = ['en', 'ru']
+    const availableLanguages = ['en', 'de', 'ru']
 
     return (
         <nav className="navbar navbar-light navbar-expand-lg navigation-clean" style={{fontFamily: 'Courier New', marginBottom: 20}}>
@@ -17,7 +17,7 @@ const Navigation = () => {
                 </button>
                 <div className="collapse navbar-collapse" id="navcol-1">
                     <ul className="navbar-nav ms-auto">
-                        <li className="nav-item"><a className="nav-link" href="/">{ t('nav_item_bio') }</a></li>
+                        
                         <li className="nav-item"><a className="nav-link" href="https://perevalov.com/static/pdf/cv.pdf">{ t('nav_item_cv') }</a></li>
                         <li className="nav-item"><a className="nav-link" href="https://scholar.google.com/citations?user=VRJwbL4AAAAJ&hl=en">{ t('nav_item_research') }</a></li>
                         <li className="nav-item dropdown">

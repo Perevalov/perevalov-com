@@ -8,7 +8,7 @@ const IndexAbout = () => {
     return (
         <div className="container">
             <div className="row">
-                <div className="col-md-6 col-lg-3"><img  style={{maxWidth: '100%', maxHeight: '100%', marginBottom: 5}} src="/img/index-perevalov.jpeg"/></div>
+                <div className="col-md-6 col-lg-4"><img  style={{maxWidth: '100%', maxHeight: '100%', marginBottom: 5}} src="/img/index-perevalov.jpeg"/><p>© <a href="https://www.kit.edu">www.kit.edu</a></p></div>
                 <div className="col-md-6 col-lg-8">
                     <p style={{fontFamily: 'Courier New'}} dangerouslySetInnerHTML={{__html: t('index_description')}} />
                     <p>

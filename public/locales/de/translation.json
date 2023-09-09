@@ -1,0 +1,16 @@
+{
+    "navbar_brand": "Perevalov, A.",
+    "nav_item_bio": "bio",
+    "nav_item_cv": "cv",
+    "nav_item_research": "forschung",
+    "nav_item_blog": "blog",
+    "nav_item_lang": "sprache",
+    "latest_title": "Meine Aktivitäten",
+    "research_title": "Angewandte Forschung",
+    "research_type": "Vollzeit",
+    "ai_consulting_title": "KI-Beratung",
+    "ai_consulting_type": "Teilzeit",
+    "ai_consulting_description": "Ich kann Sie bei der Anwendung von KI-Methoden in Ihrem Unternehmen beraten. Insbesondere: Textverarbeitung und -analyse, Wissensgraphen, OSINT, Websuche und Mehrsprachigkeit. <a href=\"mailto:contact@perevalov.com\">Kontaktieren Sie mich!</a>",
+    "research_description": "Ich forsche auf dem Gebiet der Natürlichen Sprachverarbeitung, der Informationssuche und der Beantwortung von Fragen. Ich bin ein Teil des <a href=\"https://github.com/orgs/WSE-research\">WSE Research Groups</a> und wir sind offen für Kooperationen,  <a href=\"mailto:contact@perevalov.com\">kontaktieren Sie mich!</a>",
+    "index_description": "<p>Mein Name ist Aleksandr Perevalov und ich bin ein engagierter Forscher und aktueller PhD-Kandidat.</p><p>Mein akademischer Weg begann an der <a href=\"https://pstu.ru/en/\">Staatlichen Technischen Universität Perm (PSTU)</a>, wo ich 2018 meinen Bachelor in Informatik erhielt. Meine Ausbildung setzte ich in einem Doppelabschlussprogramm zwischen PSTU und der <a href=\"https://www.hs-anhalt.de/en/start-page.html\">Hochschule Anhalt (HSA)</a> fort und erhielt 2020 meinen Master in Computer- und Datenwissenschaften.</p><p>Vor meiner PhD-Reise war ich von 2018 bis 2020 als Softwareingenieur bei <a href=\"https://www.fsight.ru/en/\">Foresight LLC</a> tätig. Meine postgradualen Studien begann ich im August 2020 durch die Einschreibung als PhD-Student an der HSA. Derzeit bin ich wissenschaftlicher Mitarbeiter an der <a href=\"https://www.htwk-leipzig.de/en/htwk-leipzig/\">Hochschule für Technik, Wirtschaft und Kultur Leipzig (HTWK Leipzig)</a>, während ich gleichzeitig meine PhD-Kandidatur an der HSA verfolge. Zurzeit leite ich auch ein zweijähriges Forschungsprojekt über Semantische Suche für die Materialwissenschaft (<a href=\"https://lass-kg.de/\">LASS KG</a>) mit Springer Nature.</p>"
+}
